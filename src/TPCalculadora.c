@@ -82,7 +82,7 @@ int main(void)
 		case 5:
 			break;
 		default:
-			puts("Ingrese una opción valida (1, 2, 3, 4, 5)");
+			puts("Ingrese una opcion valida (1, 2, 3, 4, 5)");
 			break;
 		}
 		puts("\n");
